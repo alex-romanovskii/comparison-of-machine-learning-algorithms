@@ -4,9 +4,8 @@
 
 The following articles / implementations were selected:
 1. Yubin Park , Joyce Ho. "Tackling Overfitting in Boosting for Noisy Healthcare Data." IEEE Transactions on Knowledge and Data Engineering (2019) / [Github](https://github.com/yubin-park/palobst)
-2. Gérard Biau, Benoît Cadre, Laurent Rouvìère, "Accelerated Gradient Boosting",2018, arXiv:1803.02042
-3. "Rie Johnson, Tong Zhang. / [Github](https://github.com/msangnier/optboosting)
-""Learning Nonlinear Functions Using Regularized Greedy Forest"". IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE (2014 )
+2. Gérard Biau, Benoît Cadre, Laurent Rouvìère, "Accelerated Gradient Boosting",2018, arXiv:1803.02042 / [Github](https://github.com/msangnier/optboosting)
+3. "Rie Johnson, Tong Zhang. ""Learning Nonlinear Functions Using Regularized Greedy Forest"". IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE (2014 )
 " / [Github](https://github.com/RGF-team/rgf)
 
 The algorithms were compared using the example of solving the regression problem
